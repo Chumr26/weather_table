@@ -13,9 +13,9 @@ The get_space() function calculates the amount of space between each emoji in th
 
 The get_emoji() function concatenates the appropriate amount of space with each emoji in the forecast and returns a list of the resulting emojis.
 #### Requirements
-•'requests' library
-•'tabulate' library
-•'sys' library
+- 'requests' library
+- 'tabulate' library
+- 'sys' library
 #### Installation
 1. Clone the repository or download the script.
 2. Install the required librarie by running 'pip install tabulate' in the terminal.
